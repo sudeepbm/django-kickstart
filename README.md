@@ -14,6 +14,7 @@ This script is still in development. New features and enhancements are planned a
 
 Here are some of the features planned for future releases:
 
+- [ ] **Windows Support**: Create Batch and PowerShell versions of the script for Windows users.
 - [ ] **Modular Codebase**: Refactor the script into functions to improve readability and maintainability.
 - [ ] **Custom Package Installation**: Allow the user to provide a list of additional Python packages (e.g., `djangorestframework`, `pillow`) to be installed.
 - [ ] **Git Initialization**: Automatically initialize a Git repository and create a `.gitignore` file.
@@ -37,7 +38,7 @@ Here are some of the features planned for future releases:
 
 ## Prerequisites
 
-- **Operating System**: Linux or macOS.
+- **Operating System**: Linux, macOS, or Windows (with WSL).
 - **Python**: Python 3.x installed on your system.
 - **Shell**: Bash or a compatible shell (like Zsh).
 - **Visual Studio Code**: Installed and `code` command available in PATH (for opening the project).
